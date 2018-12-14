@@ -14,6 +14,7 @@ Basically, what we are doing is to divide the styles in different categories:
 - 04-Components
 - 05-Pages
 - 06-Utilities
+- 07-Print
 - 77-Vendors
 - 88-Legacy
 - 99-Overrides
